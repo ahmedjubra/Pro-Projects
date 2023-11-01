@@ -1,0 +1,284 @@
+
+
+#body{
+width:1288px;
+    background-color:#5f4c4c;
+    }
+#had {
+	width:1288px;
+	border:3px solid ;
+	border-color:#7cc3;
+    font-size:33px;
+	margin-top:-11px;
+    background-color:#fed;
+
+	  }
+	#had   img{
+         margin-left:43%;
+		 width99px;
+		 height:146px;
+		 
+         }
+#ha {	
+        margin-left:82%;
+        margin-top:-9%;
+
+     }
+#ha2{
+
+  margin-left:8%;
+        margin-top:-9%; 
+ margin-top:-9%;
+
+    }
+#ha3{
+
+border:7px solid #fff;
+  width:170px;
+  height:55px;
+	border-color:#754f4;
+    font-size:40px;
+	margin:-11px 540px 4px;
+    background-color:#fed;
+
+      }	
+	
+	#ha4{
+
+    font-size:40px;
+	margin:-33px 5px 4px;
+	
+      }	
+#gh{
+
+	 width:999px;
+	 height:33;
+    background-color:00005;
+    }	
+	#gh1{
+
+		 width:999px;	
+		 height:33;
+    background-color:#eee;
+    }
+
+#tool ul{
+  border:3px;
+  background:#ccc;
+  list-style-type:none;
+  font-size:18px;
+ width:1222px;
+  height:27px;
+	outline:none;
+
+	overflow:hidden;
+	
+     }
+#tool li{
+    position:relative;
+	float:right;
+	  margin-left:33px;
+	 outline:none;
+	overflow:hidden;
+	  cursor: pointer;
+	   display: block;
+   box-shadow:5px 5px 5px 5px 5px;
+-moz-box-shadow:5px 5px 5px 5px 5px;
+ padding:5px;
+	
+	margin:-11px 6px -4px 20px;
+	font-size:25px;
+
+     }
+	#tool li  input {
+	 font-size:18px;
+	  margin-left:5px;
+	  background:#acc;
+	  border:4px
+	   cursor: pointer;
+	 font-top:4px;
+	box-shadow:5px 5px 5px 5px 5px;
+-moz-box-shadow:5px 5px 5px 5px 5px;
+	        } 
+	 #tt{
+	 {
+  border:3px;
+	
+ box-shadow:5px 5px 5px 5px 5px;
+-moz-box-shadow:5px 5px 5px 5px 5px;
+-moz-border-radius:7px;
+
+    }
+	 bor{
+	 border:2px;
+	 width:677;
+	 height:333;
+	   }
+	 
+	  }
+
+	 
+	 
+ #hh{
+  border:3px;
+	
+ box-shadow:5px 5px 5px 5px 5px;
+-moz-box-shadow:5px 5px 5px 5px 5px;
+-moz-border-radius:7px;
+
+    }
+
+#recod{
+	background:#cfc;
+
+   }
+#pi{
+ width:1288px;
+  height:29;
+	background:#ffc;
+   }
+
+#log {
+ color:rad;
+
+    }
+#area{
+  margin:333px;
+   margin-top:-444px;
+ border:3px;
+ 
+	background:#43a;
+ width:688;
+	 height:107px;
+  }
+#table{
+ border:3px;
+  margin-left:333px;
+	background:#ccf;
+      width:677;
+	 height:50;
+	    margin-top:44px;
+     }
+#is{
+
+	border:4;
+    font-size:25px;
+	   text-align:center;
+   }
+   #is1{
+   border:4px dotted  #fec;
+  width:222px;
+  height:60px;
+	border-color:#cec;
+  margin-left:41%;
+   margin-top:-222px;
+    background:#e55;
+	   text-align:center;
+     
+     }
+	    #is1 a{
+		    font-size:55px;
+	   text-align:center;
+		    }
+	 
+	 #man{
+ margin-left:117px;
+   margin-top:-19px;
+	border-color:#cf4;
+ border:1px;
+ 
+	background:#fcf;
+ width:222;
+	 height:22;
+	 
+	   }
+	 
+	 #pad1 {
+	
+		    font-size:33px; 
+      border:4px ;
+  margin-left:2px;
+   margin-top:144px;
+	background:#fec;
+    width:1255;
+	 height:277;
+	 direction:rtl;
+
+	  }
+
+	 #box2{ 
+	  font-size:24px; 
+      border:3px;
+   margin-left:73%;
+   margin-top:1%;
+    background-color:#fec;
+	background:#eee;
+    width:322px;
+	 height:777px;
+	   text-align:center;
+	 direction:rtl;
+	 border:3px dotted #black;
+	    }
+	 
+	
+	 #pad3{ 
+	 border:3px dotted #black;
+	 margin-left:19px;
+	  font-size:24px; 
+      border:1px;
+   margin-top:-800px;
+    background-color:#fec;
+	background:#ddd;
+    width:322px;
+	 height:833px;
+	   text-align:center;
+	 direction:rtl;
+	    }
+		 #pad5{ 
+	 margin-left:37%;
+	 border:3px dotted #black;
+	  font-size:28px; 
+      border:1px;
+   margin-top:-866px;
+    background-color:#fec;
+	background:#def;
+    width:322px;
+	 height:366px;
+	   text-align:center;
+	 direction:rtl;
+	    }
+		 #pad6{ 
+		 margin-left:37%;
+	  font-size:28px; 
+      border:1px;
+   margin-top:10%;
+    background-color:#fec;
+	background:#fee;
+    width:322px;
+	 height:422px;
+	   text-align:center;
+	 direction:rtl;
+	 border:3px dotted #black;
+	    }
+	.left_side
+{  	overflow:hidden;
+
+	
+	float:left;
+	width:30%;
+	height:100%;
+	margin:-444px auto;
+	padding-top:0px;
+	width:300px;
+    overflow:hidden;
+    
+  
+	
+}
+	
+	
+	
+	
+	
+	
+	 
